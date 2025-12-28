@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on nanoleaf panel integrations!
 - 🌱 I’m constantly trying to learn everything 🤣
 - 👯 I’m looking to create applications that I can be proud of ✌️
-- 🥅 2024 Goals: Contribute to more open source projects
+- 🥅 2026 Goals: Contribute to more open source projects
 - ⚡ Fun fact: I love learning human (natural) languages
 
 ## Connect with me
