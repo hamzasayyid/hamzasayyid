@@ -31,7 +31,7 @@
 
 ---
 <!-- updated themes -->
-<img align="left" alt="hazamaswag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzasayyid&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true" />
+<!-- <img align="left" alt="hazamaswag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzasayyid&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true" /> -->
 
 [twitter]: https://twitter.com/not_hamzy
 [instagram]: https://instagram.com/not_hamza
